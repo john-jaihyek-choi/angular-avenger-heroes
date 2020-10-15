@@ -10,6 +10,7 @@ npm install
 ```
 
 ### Build and Run the App
+On your terminal:
 ```
 ng serve
 ```
